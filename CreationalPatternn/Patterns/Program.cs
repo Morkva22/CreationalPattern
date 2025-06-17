@@ -1,4 +1,4 @@
-﻿using Pattern_._;
+﻿using Pattern.Singleton;
 
 namespace DesignPatterns
 {
