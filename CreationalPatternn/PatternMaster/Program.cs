@@ -11,3 +11,7 @@ namespace DesignPatterns
         }
     }
 }
+
+
+
+// "CreationalPatternn" = it is a folder name, not a namespace or smth else

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pattern.Command
+namespace Pattern.Mediator
 {
-    public interface ICommand<TReturn, TGetArgs>
+    public interface IMediator
     {
-        TReturn Execute(TGetArgs source);
+        void Notify(object sender);
     }
 }
