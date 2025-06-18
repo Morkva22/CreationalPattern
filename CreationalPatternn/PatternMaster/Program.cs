@@ -1,4 +1,4 @@
-﻿using Pattern.Singleton;
+﻿using Pattern.Bridge;                 //suda
 
 namespace DesignPatterns
 {
