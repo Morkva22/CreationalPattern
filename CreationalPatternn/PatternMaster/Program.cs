@@ -14,4 +14,4 @@ namespace DesignPatterns
 
 
 
-// "CreationalPatternn" = it is a folder name, not a namespace or smth else
+// "CreationalPatternn" = it is a folder name, not a namespace or smth else. (The name of project in GitHub is "DesignPatterns")
